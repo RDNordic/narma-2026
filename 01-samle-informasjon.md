@@ -9,20 +9,20 @@
 ## Åpne dette
 
 - [Vår fiktive utlysning](ressurser/ovingsutlysning.md), eller en egen utlysning du kan bruke.
-- [Mal: informasjon om utlysningen](ressurser/01-utlysning-mal.md).
+- [Mal: informasjon om utlysningen](ressurser/01-utlysning-mal.md). Denne kan kopieres inn i notisblokk, og lagres som "01-utlysning-mal.md", og lastes opp i en KI chat.
 - [Mal: prosjektidé](ressurser/02-prosjektgrunnlag-mal.md).
 
-Alle vilkår, datoer og beløp i øvingsutlysningen er konstruerte. Den er ingen faktisk finansieringsmulighet.
+Alle vilkår, datoer og beløp i øvingsutlysningen er fiktive. Den er desverre ingen faktiske penger å hente :)
 
 ## Slik gjør du
 
 1. **Velg en utlysning og en prosjektidé.** Bruk gjerne våre eksempler. Hvis du velger selv, bruk høyst ti minutter på å finne utlysningen. Ta deretter eksemplet vårt hvis du trenger det.
 2. **Lag en mappe på PC-en.** Behold originalutlysningen eller noter hvor du finner den.
-3. **Fyll ut utlysningsmalen.** Ta med kilde, dato eller versjon, frist, minst to relevante krav og noe som må avklares. Legg gjerne inn relevante utdrag. Lagre som `01-utlysning.md` eller `.txt`.
+3. **Fyll ut utlysningsmalen.** Ta med kilde, dato eller versjon, frist, minst to relevante krav og noe som må avklares. Legg gjerne inn relevante utdrag. Lagre som `01-utlysning.md` eller `01-utlysning.txt`.
 4. **Fyll ut prosjektmalen.** Beskriv ideen med noen setninger. Skill det du vet fra det du antar. Lagre som `02-prosjektgrunnlag.md` eller `.txt` i samme mappe.
-5. **Sjekk en viktig opplysning i originalen.** Finn for eksempel fristen og noter hvor den står. La gjerne en kollega finne samme sted.
+5. **Sjekk en viktig opplysning i originalen.** Finn for eksempel fristen og noter hvor den står.
 
-Du kan bruke KI til å lage et første utkast til filene. Sammenlign utkastet med originalen før du bruker det videre. Merk om teksten er et utdrag eller en oppsummering.
+Du kan bruke KI til å lage et første utkast til filene. Sammenlign utkastet med originalen før du bruker det videre. Merk om teksten er et utdrag, en oppsummering, eller en ren klipp og lim.
 
 ## Et ferdig eksempel
 
